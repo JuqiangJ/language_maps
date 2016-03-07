@@ -24,3 +24,5 @@ do
 	ogr2ogr --config SHAPE_ENCODING UTF-8 -f 'ESRI Shapefile' $file $i
 fi
 done
+
+ogr2ogr -f GeoJSON -t_srs crs:84 language_maps.geojson language_maps.shp
