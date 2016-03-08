@@ -1915,7 +1915,7 @@
         "id": 1,
         "comment": "evn-all",
         "desc": null,
-        "lang": null
+        "lang": "evn"
       },
       "geometry": {
         "type": "Polygon",
@@ -5361,7 +5361,7 @@
         "id": null,
         "comment": null,
         "desc": null,
-        "lang": null
+        "lang": "ket"
       },
       "geometry": {
         "type": "Polygon",
