@@ -4,6 +4,11 @@
 # http://www.northrivergeographic.com/ogr2ogr-merge-shapefiles
 # https://eomwandho.wordpress.com/tag/create-shapefile/
 
+# On Linux ogr2ogr does not want to overwrite files, so let's empty that directory always in the beginning
+# This is a good practice in the sense that we want the geojson to be always generated from the shapefiles anyway.
+
+rm ./geojson/*
+
 for file in `find . -name "*.shp"`
 do
     BASENAME=$(echo $(basename $file) | sed 's/.shp//g')
@@ -14,6 +19,11 @@ done
 # https://github.com/mapbox/geojson-merge
 
 geojson-merge geojson/*.geojson > language_maps.geojson
+
+## This has only INEL languages
+
+geojson-merge ./geojson/dlg.geojson ./geojson/sel.geojson ./geojson/evn.geojson ./geojson/evn-all.geojson ./geojson/ket.geojson ./geojson/koi.geojson ./geojson/koi-j.geojson ./geojson/tat-sib.geojson ./geojson/xas.geojson ./geojson/yrk.geojson > language_maps_inel.geojson
+
 
 # file="language_maps.shp"
 
