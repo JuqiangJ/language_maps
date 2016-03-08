@@ -13,7 +13,7 @@ done
 # I found this tool from here
 # https://github.com/mapbox/geojson-merge
 
-geojson-merge geojson/*.geojson > language_map.geojson
+geojson-merge geojson/*.geojson > language_maps.geojson
 
 # file="language_maps.shp"
 
