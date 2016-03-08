@@ -6,7 +6,8 @@
       "properties": {
         "id": null,
         "comment": "Хатанга",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -53,7 +54,8 @@
       "properties": {
         "id": null,
         "comment": "Дудинка",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -104,7 +106,8 @@
       "properties": {
         "id": null,
         "comment": "Саскылах",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -147,7 +150,8 @@
       "properties": {
         "id": null,
         "comment": "Юрюнг-Хая",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -190,7 +194,8 @@
       "properties": {
         "id": null,
         "comment": "Хантайское озеро",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -233,7 +238,8 @@
       "properties": {
         "id": null,
         "comment": "Жданиха",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -276,7 +282,8 @@
       "properties": {
         "id": null,
         "comment": "Новая",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -319,7 +326,8 @@
       "properties": {
         "id": null,
         "comment": "Кресты",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -362,7 +370,8 @@
       "properties": {
         "id": null,
         "comment": "Усть-Авам",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -409,7 +418,8 @@
       "properties": {
         "id": null,
         "comment": "Волочанка",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -456,7 +466,8 @@
       "properties": {
         "id": null,
         "comment": "Попигай",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -499,7 +510,8 @@
       "properties": {
         "id": null,
         "comment": "Катырык",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -546,7 +558,8 @@
       "properties": {
         "id": null,
         "comment": "Хета",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -593,7 +606,8 @@
       "properties": {
         "id": null,
         "comment": "Сындасско",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -644,7 +658,8 @@
       "properties": {
         "id": null,
         "comment": "Новорыбная",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -699,7 +714,8 @@
       "properties": {
         "id": null,
         "comment": null,
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -786,7 +802,8 @@
       "properties": {
         "id": null,
         "comment": null,
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -929,7 +946,8 @@
       "properties": {
         "id": 101,
         "comment": "dudinka",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -976,7 +994,8 @@
       "properties": {
         "id": 100,
         "comment": "ext",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1027,7 +1046,8 @@
       "properties": {
         "id": null,
         "comment": "Хатанга",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1074,7 +1094,8 @@
       "properties": {
         "id": null,
         "comment": "Дудинка",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1125,7 +1146,8 @@
       "properties": {
         "id": null,
         "comment": "Саскылах",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1168,7 +1190,8 @@
       "properties": {
         "id": null,
         "comment": "Юрюнг-Хая",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1211,7 +1234,8 @@
       "properties": {
         "id": null,
         "comment": "Хантайское озеро",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1254,7 +1278,8 @@
       "properties": {
         "id": null,
         "comment": "Жданиха",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1297,7 +1322,8 @@
       "properties": {
         "id": null,
         "comment": "Новая",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1340,7 +1366,8 @@
       "properties": {
         "id": null,
         "comment": "Кресты",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1383,7 +1410,8 @@
       "properties": {
         "id": null,
         "comment": "Усть-Авам",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1430,7 +1458,8 @@
       "properties": {
         "id": null,
         "comment": "Волочанка",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1477,7 +1506,8 @@
       "properties": {
         "id": null,
         "comment": "Попигай",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1520,7 +1550,8 @@
       "properties": {
         "id": null,
         "comment": "Катырык",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1567,7 +1598,8 @@
       "properties": {
         "id": null,
         "comment": "Хета",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1614,7 +1646,8 @@
       "properties": {
         "id": null,
         "comment": "Сындасско",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1665,7 +1698,8 @@
       "properties": {
         "id": null,
         "comment": "Новорыбная",
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1720,7 +1754,8 @@
       "properties": {
         "id": null,
         "comment": null,
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1787,7 +1822,8 @@
       "properties": {
         "id": null,
         "comment": null,
-        "desc": null
+        "desc": null,
+        "lang": "dlg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1878,7 +1914,8 @@
       "properties": {
         "id": 1,
         "comment": "evn-all",
-        "desc": null
+        "desc": null,
+        "lang": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5151,7 +5188,8 @@
       "properties": {
         "id": null,
         "comment": null,
-        "desc": null
+        "desc": null,
+        "lang": "ket"
       },
       "geometry": {
         "type": "Polygon",
@@ -5218,7 +5256,8 @@
       "properties": {
         "id": null,
         "comment": "Суломай",
-        "desc": null
+        "desc": null,
+        "lang": "ket"
       },
       "geometry": {
         "type": "Polygon",
@@ -5273,7 +5312,8 @@
       "properties": {
         "id": null,
         "comment": "Туруханск",
-        "desc": null
+        "desc": null,
+        "lang": "ket"
       },
       "geometry": {
         "type": "Polygon",
@@ -5320,7 +5360,8 @@
       "properties": {
         "id": null,
         "comment": null,
-        "desc": null
+        "desc": null,
+        "lang": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5439,7 +5480,8 @@
       "properties": {
         "desc": "Komi-Jazva",
         "id": 1,
-        "comment": null
+        "comment": null,
+        "lang": "koi-j"
       },
       "geometry": {
         "type": "Polygon",
@@ -5707,9 +5749,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Komipermjakki 3",
         "comment": null,
-        "desc": null
+        "desc": null,
+        "id": null,
+        "lang": "koi"
       },
       "geometry": {
         "type": "Polygon",
@@ -5807,9 +5850,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "kpv",
         "comment": null,
-        "desc": null
+        "desc": null,
+        "id": null,
+        "lang": "koi"
       },
       "geometry": {
         "type": "Polygon",
@@ -6526,7 +6570,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "lower-ezhva"
+        "desc": "lower-ezhva",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -6663,7 +6708,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "luza-letka"
+        "desc": "luza-letka",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -6804,7 +6850,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "middle-sysola"
+        "desc": "middle-sysola",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -7045,7 +7092,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "pechora"
+        "desc": "pechora",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -7262,7 +7310,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "udora"
+        "desc": "udora",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -7575,7 +7624,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "upper-ezhva"
+        "desc": "upper-ezhva",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8176,7 +8226,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "upper-sysola"
+        "desc": "upper-sysola",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8283,7 +8334,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "vym"
+        "desc": "vym",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8456,7 +8508,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "prisyktyvkar"
+        "desc": "prisyktyvkar",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8541,7 +8594,8 @@
         "name": "Краснощелье",
         "comment": null,
         "id": null,
-        "desc": "krasnoshelye"
+        "desc": "krasnoshelye",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8610,7 +8664,8 @@
         "name": "Саранпауль",
         "comment": null,
         "id": null,
-        "desc": "saranpaul"
+        "desc": "saranpaul",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8679,7 +8734,8 @@
         "name": "Казым",
         "comment": null,
         "id": null,
-        "desc": "kazym"
+        "desc": "kazym",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8740,7 +8796,8 @@
         "name": "Волоковая",
         "comment": null,
         "id": null,
-        "desc": "volokovaya"
+        "desc": "volokovaya",
+        "lang": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8813,7 +8870,8 @@
         "name": "Нарьян-Мар",
         "comment": null,
         "id": null,
-        "desc": "naryan-mar"
+        "desc": "naryan-mar",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8874,7 +8932,8 @@
         "name": "Несь",
         "comment": null,
         "id": null,
-        "desc": "nes"
+        "desc": "nes",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -8943,7 +9002,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": null
+        "desc": null,
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -9000,7 +9060,8 @@
         "name": "Салехард",
         "comment": null,
         "id": null,
-        "desc": "salehard"
+        "desc": "salehard",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -9053,7 +9114,8 @@
         "name": "Мужи",
         "comment": null,
         "id": null,
-        "desc": "muzhi"
+        "desc": "muzhi",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -9114,7 +9176,8 @@
         "name": "Овгорт",
         "comment": null,
         "id": null,
-        "desc": "ovgort"
+        "desc": "ovgort",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -9179,7 +9242,8 @@
         "name": "Ловозеро",
         "comment": null,
         "id": null,
-        "desc": "lovozero"
+        "desc": "lovozero",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -9244,7 +9308,8 @@
         "name": "Колва",
         "comment": null,
         "id": null,
-        "desc": "kolva"
+        "desc": "kolva",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -9901,7 +9966,8 @@
         "name": "sartynja",
         "comment": null,
         "id": null,
-        "desc": "sartynya"
+        "desc": "sartynya",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -9978,7 +10044,8 @@
         "name": "Чижа",
         "comment": null,
         "id": null,
-        "desc": "chizha"
+        "desc": "chizha",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10035,7 +10102,8 @@
         "name": "Хорей-Вер",
         "comment": null,
         "id": null,
-        "desc": "horei-ver"
+        "desc": "horei-ver",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10088,7 +10156,8 @@
         "name": "Харута",
         "comment": null,
         "id": null,
-        "desc": "haruta"
+        "desc": "haruta",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10145,7 +10214,8 @@
         "name": "Коткино",
         "comment": null,
         "id": null,
-        "desc": "kotkina"
+        "desc": "kotkina",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10202,7 +10272,8 @@
         "name": "Каневка",
         "comment": null,
         "id": null,
-        "desc": "kanevka"
+        "desc": "kanevka",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10259,7 +10330,8 @@
         "name": null,
         "comment": null,
         "id": null,
-        "desc": "sosnovka"
+        "desc": "sosnovka",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10312,7 +10384,8 @@
         "name": "Каратайка",
         "comment": null,
         "id": null,
-        "desc": "karatayka"
+        "desc": "karatayka",
+        "lang": "kpv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10351,7 +10424,8 @@
       "properties": {
         "id": null,
         "comment": "Иванкино",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10390,7 +10464,8 @@
       "properties": {
         "id": null,
         "comment": "Коплашево",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10433,7 +10508,8 @@
       "properties": {
         "id": null,
         "comment": "Новосондрово",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10484,7 +10560,8 @@
       "properties": {
         "id": null,
         "comment": "Напас",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10531,7 +10608,8 @@
       "properties": {
         "id": null,
         "comment": "Northern Selkup",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10610,7 +10688,8 @@
       "properties": {
         "id": null,
         "comment": "Киккиакки",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10657,7 +10736,8 @@
       "properties": {
         "id": null,
         "comment": "Ратта",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10712,7 +10792,8 @@
       "properties": {
         "id": null,
         "comment": "Толька",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10767,7 +10848,8 @@
       "properties": {
         "id": null,
         "comment": "Красноселькуп",
-        "desc": null
+        "desc": null,
+        "lang": "sel"
       },
       "geometry": {
         "type": "Polygon",
@@ -10814,7 +10896,8 @@
       "properties": {
         "id": null,
         "comment": "Southern Selkup",
-        "desc": null
+        "desc": null,
+        "lang": null
       },
       "geometry": {
         "type": "Polygon",
@@ -10895,11 +10978,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -10952,11 +11034,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11017,11 +11098,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11090,11 +11170,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11155,11 +11234,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11212,11 +11290,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11285,11 +11362,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11338,11 +11414,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "sib-tat",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11415,11 +11490,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11532,11 +11606,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11789,11 +11862,10 @@
     {
       "type": "Feature",
       "properties": {
-        "outID": "tat-sib",
-        "area": null,
-        "perim": null,
         "dial": null,
-        "name": null
+        "name": null,
+        "lang": "tat",
+        "id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11844,7 +11916,8 @@
       "properties": {
         "id": 2,
         "comment": "xas-all",
-        "desc": null
+        "desc": null,
+        "lang": "xas"
       },
       "geometry": {
         "type": "Polygon",
@@ -11992,7 +12065,8 @@
         "id": null,
         "comment": null,
         "desc": "Beloyarsky",
-        "dial": null
+        "dial": null,
+        "lang": "yrk"
       },
       "geometry": {
         "type": "Polygon",
@@ -12040,7 +12114,8 @@
         "id": null,
         "comment": null,
         "desc": "Usinsk",
-        "dial": null
+        "dial": null,
+        "lang": "yrk"
       },
       "geometry": {
         "type": "Polygon",
@@ -12092,7 +12167,8 @@
         "id": null,
         "comment": null,
         "desc": "Naryan-Mar",
-        "dial": null
+        "dial": null,
+        "lang": "yrk"
       },
       "geometry": {
         "type": "Polygon",
@@ -12140,7 +12216,8 @@
         "id": null,
         "comment": null,
         "desc": "Labytnangi",
-        "dial": null
+        "dial": null,
+        "lang": "yrk"
       },
       "geometry": {
         "type": "Polygon",
@@ -12192,7 +12269,8 @@
         "id": null,
         "comment": null,
         "desc": "Salehard",
-        "dial": null
+        "dial": null,
+        "lang": "yrk"
       },
       "geometry": {
         "type": "Polygon",
@@ -12236,7 +12314,8 @@
         "id": null,
         "comment": null,
         "desc": "Nenetskiy AOk",
-        "dial": null
+        "dial": null,
+        "lang": "yrk"
       },
       "geometry": {
         "type": "MultiPolygon",
