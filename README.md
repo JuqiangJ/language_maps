@@ -15,7 +15,7 @@ If you have some suggestions about better workflows, please let me know!
 
 ### Example
 
-The picture below contains some of the languages in mapped with R and Leaflet. Ideally the different use cases of these files would also be linked here, especially in order to be able to reuse R and JavaScript code.
+The picture below shows some of the languages mapped with R and Leaflet. Ideally the different use cases of these files would also be linked here, especially in order to be able to reuse R and JavaScript code.
 
 ![example image](https://raw.githubusercontent.com/nikopartanen/language_maps/master/example_leaflet.png)
 
