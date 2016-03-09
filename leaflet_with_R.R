@@ -6,7 +6,9 @@ library(leaflet)
 
 # The files in folder geojson are generated from shapefiles with script shp2geojson.sh
 # Now there are all shapefiles, one should think about some smarter way to specify
-# which languages are in INEL.
+# which languages one wants to map. Of course one could write a small function which takes
+# the names of the files as an argument. This is maybe a good idea, as it could be even
+# very easy to have that as a Shiny application...
 
 files <- list.files("./geojson/", full.names = T)
 
