@@ -9,7 +9,17 @@
 
 rm ./geojson/*
 
-for file in `find . -name "*.shp"`
+# This merges kom-shapefile from different Komi varieties
+
+rm ./langs/kom/*
+
+ogr2ogr -f 'ESRI Shapefile' ./langs/kom/kom.shp ./langs/kpv/kpv.shp
+ogr2ogr -f 'ESRI Shapefile' -update -append ./langs/kom/kom.shp ./langs/koi/koi.shp -nln kom
+ogr2ogr -f 'ESRI Shapefile' -update -append ./langs/kom/kom.shp ./langs/koi-j/koi-j.shp -nln kom
+
+# This creates the geojsons
+
+for file in `find ./langs/ -name "*.shp"`
 do
     BASENAME=$(echo $(basename $file) | sed 's/.shp//g')
     ogr2ogr -f GeoJSON -t_srs crs:84 ./geojson/$BASENAME.geojson $file
@@ -24,6 +34,10 @@ geojson-merge geojson/*.geojson > language_maps.geojson
 
 geojson-merge ./geojson/dlg.geojson ./geojson/sel.geojson ./geojson/evn.geojson ./geojson/evn-all.geojson ./geojson/ket.geojson ./geojson/koi.geojson ./geojson/koi-j.geojson ./geojson/tat-sib.geojson ./geojson/xas.geojson ./geojson/yrk.geojson > language_maps_inel.geojson
 
+## This creates the cut isogloss map for Komi
+
+rm isoglosses/kom_isogloss_1_cut.shp
+ogr2ogr -clipsrc langs/kom/kom.shp isoglosses/kom_isogloss_1_cut.shp isoglosses/kom_isogloss.shp
 
 # file="language_maps.shp"
 
