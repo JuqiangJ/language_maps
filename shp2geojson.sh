@@ -32,7 +32,7 @@ geojson-merge geojson/*.geojson > language_maps.geojson
 
 ## This has only INEL languages
 
-geojson-merge ./geojson/dlg.geojson ./geojson/sel.geojson ./geojson/evn.geojson ./geojson/evn-all.geojson ./geojson/ket-1700.geojson ./geojson/koi.geojson ./geojson/koi-j.geojson ./geojson/tat-sib.geojson ./geojson/xas.geojson ./geojson/yrk.geojson > language_maps_inel.geojson
+geojson-merge ./geojson/dlg.geojson ./geojson/sel.geojson ./geojson/evn.geojson ./geojson/evn-all.geojson ./geojson/ket.geojson ./geojson/koi.geojson ./geojson/koi-j.geojson ./geojson/tat-sib.geojson ./geojson/xas.geojson ./geojson/yrk.geojson > language_maps_inel.geojson
 
 ## This creates the cut isogloss map for Komi
 
