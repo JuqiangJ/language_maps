@@ -1,74 +1,29 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.6.1-Brighton">
+<qgis projectname="" version="2.0.1-Dufour">
     <title></title>
-    <layer-tree-group expanded="1" checked="Qt::Checked" name="">
-        <customproperties/>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="dlg20160329123909382" name="dlg">
-            <customproperties/>
-        </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="sel20160329121056670" name="sel">
-            <customproperties/>
-        </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="koi20160325212356859" name="koi">
-            <customproperties/>
-        </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="koi_j20160325210157785" name="koi-j">
-            <customproperties/>
-        </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="OpenLayers_plugin_layer20160329122439797" name="OpenStreetMap">
-            <customproperties/>
-        </layer-tree-layer>
-    </layer-tree-group>
-    <relations/>
     <mapcanvas>
         <units>meters</units>
         <extent>
-            <xmin>10215553.63227756693959236</xmin>
-            <ymin>11150528.59885058924555779</ymin>
-            <xmax>10772227.65517135336995125</xmax>
-            <ymax>11675301.53160719946026802</ymax>
+            <xmin>-2557011.02402272773906589</xmin>
+            <ymin>5879091.17047530692070723</ymin>
+            <xmax>217205.90723097091540694</xmax>
+            <ymax>7465583.07861111592501402</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
             <spatialrefsys>
-                <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-                <srsid>3857</srsid>
-                <srid>3857</srid>
-                <authid>EPSG:3857</authid>
-                <description>WGS 84 / Pseudo Mercator</description>
+                <proj4>+proj=merc +lon_0=100 +lat_ts=-41 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+                <srsid>1710</srsid>
+                <srid>3752</srid>
+                <authid>EPSG:3752</authid>
+                <description>WGS 84 / Mercator 41</description>
                 <projectionacronym>merc</projectionacronym>
                 <ellipsoidacronym>WGS84</ellipsoidacronym>
                 <geographicflag>false</geographicflag>
             </spatialrefsys>
         </destinationsrs>
-        <layer_coordinate_transform_info>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="dlg20160329123909382"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="koi_j20160325210157785"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20160325210806355"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="xas20160308103211905"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20160329122439797"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="bubrix1960a_georef20160322145612421"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="koi20160325212356859"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20160329122142473"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="mtm20160322143716087"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="sel20160308102925601"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="sel20160329121056670"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20160329121436970"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20160325210243810"/>
-            <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20160325210951798"/>
-        </layer_coordinate_transform_info>
     </mapcanvas>
-    <visibility-presets/>
-    <layer-tree-canvas>
-        <custom-order enabled="0">
-            <item>koi20160325212356859</item>
-            <item>koi_j20160325210157785</item>
-            <item>sel20160329121056670</item>
-            <item>OpenLayers_plugin_layer20160329122439797</item>
-            <item>dlg20160329123909382</item>
-        </custom-order>
-    </layer-tree-canvas>
-    <legend updateDrawingOrder="true">
+    <legend updateDrawingOrder="true" activeLayer="sel20160329121056670">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="dlg" showFeatureCount="0">
             <filegroup open="true" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="dlg20160329123909382" visible="1"/>
@@ -89,82 +44,9 @@
                 <legendlayerfile isInOverview="0" layerid="koi_j20160325210157785" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OpenStreetMap" showFeatureCount="0">
-            <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20160329122439797" visible="1"/>
-            </filegroup>
-        </legendlayer>
     </legend>
-    <projectlayers layercount="6">
-        <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="openlayers">
-            <id>OpenLayers_plugin_layer20160329122439797</id>
-            <datasource></datasource>
-            <title></title>
-            <abstract></abstract>
-            <keywordList>
-                <value></value>
-            </keywordList>
-            <layername>OpenStreetMap</layername>
-            <srs>
-                <spatialrefsys>
-                    <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-                    <srsid>3857</srsid>
-                    <srid>3857</srid>
-                    <authid>EPSG:3857</authid>
-                    <description>WGS 84 / Pseudo Mercator</description>
-                    <projectionacronym>merc</projectionacronym>
-                    <ellipsoidacronym>WGS84</ellipsoidacronym>
-                    <geographicflag>false</geographicflag>
-                </spatialrefsys>
-            </srs>
-            <customproperties>
-                <property key="ol_layer_type" value="OpenStreetMap"/>
-            </customproperties>
-        </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
-            <id>Raster20160322143336320</id>
-            <datasource>/Users/niko/bubrix1960.tiff</datasource>
-            <title></title>
-            <abstract></abstract>
-            <keywordList>
-                <value></value>
-            </keywordList>
-            <layername>Raster</layername>
-            <srs>
-                <spatialrefsys>
-                    <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-                    <srsid>3857</srsid>
-                    <srid>3857</srid>
-                    <authid>EPSG:3857</authid>
-                    <description>WGS 84 / Pseudo Mercator</description>
-                    <projectionacronym>merc</projectionacronym>
-                    <ellipsoidacronym>WGS84</ellipsoidacronym>
-                    <geographicflag>false</geographicflag>
-                </spatialrefsys>
-            </srs>
-            <customproperties>
-                <property key="identify/format" value="Value"/>
-            </customproperties>
-            <provider>gdal</provider>
-            <noData>
-                <noDataList bandNo="1" useSrcNoData="0"/>
-            </noData>
-            <pipe>
-                <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
-                    <rasterTransparency/>
-                    <contrastEnhancement>
-                        <minValue>0</minValue>
-                        <maxValue>255</maxValue>
-                        <algorithm>StretchToMinimumMaximum</algorithm>
-                    </contrastEnhancement>
-                </rasterrenderer>
-                <brightnesscontrast brightness="0" contrast="0"/>
-                <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
-                <rasterresampler maxOversampling="2"/>
-            </pipe>
-            <blendMode>0</blendMode>
-        </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <projectlayers layercount="4">
+        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
             <id>dlg20160329123909382</id>
             <datasource>./langs/dlg/dlg.shp</datasource>
             <title></title>
@@ -188,41 +70,23 @@
             <provider encoding="UTF-8">ogr</provider>
             <previewExpression></previewExpression>
             <vectorjoins/>
-            <expressionfields/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
             <renderer-v2 symbollevels="0" type="singleSymbol">
                 <symbols>
                     <symbol alpha="1" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="border_width_map_unit_scale" v="0,0"/>
+                            <prop k="border_width_unit" v="MM"/>
                             <prop k="color" v="143,179,196,255"/>
-                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
-                            <prop k="offset_map_unit_scale" v="0,0"/>
                             <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_color" v="0,0,0,255"/>
-                            <prop k="outline_style" v="solid"/>
-                            <prop k="outline_width" v="0.26"/>
-                            <prop k="outline_width_unit" v="MM"/>
                             <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
                         </layer>
                     </symbol>
                 </symbols>
-                <rotation/>
-                <sizescale scalemethod="area"/>
+                <rotation field=""/>
+                <sizescale field="" scalemethod="area"/>
             </renderer-v2>
             <customproperties/>
             <blendMode>0</blendMode>
@@ -250,30 +114,21 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <edittypes>
+                <edittype labelontop="0" editable="1" type="0" name="comment"/>
+                <edittype labelontop="0" editable="1" type="0" name="desc"/>
+                <edittype labelontop="0" editable="1" type="0" name="dial"/>
+                <edittype labelontop="0" editable="1" type="0" name="lang"/>
+            </edittypes>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
             <attributeactions/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
         </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
             <id>koi20160325212356859</id>
             <datasource>./langs/koi/koi.shp</datasource>
             <title></title>
@@ -297,41 +152,23 @@
             <provider encoding="UTF-8">ogr</provider>
             <previewExpression></previewExpression>
             <vectorjoins/>
-            <expressionfields/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
             <renderer-v2 symbollevels="0" type="singleSymbol">
                 <symbols>
                     <symbol alpha="1" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="border_width_map_unit_scale" v="0,0"/>
+                            <prop k="border_width_unit" v="MM"/>
                             <prop k="color" v="15,140,134,255"/>
-                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
-                            <prop k="offset_map_unit_scale" v="0,0"/>
                             <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_color" v="0,0,0,255"/>
-                            <prop k="outline_style" v="solid"/>
-                            <prop k="outline_width" v="0.26"/>
-                            <prop k="outline_width_unit" v="MM"/>
                             <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
                         </layer>
                     </symbol>
                 </symbols>
-                <rotation/>
-                <sizescale scalemethod="area"/>
+                <rotation field=""/>
+                <sizescale field="" scalemethod="area"/>
             </renderer-v2>
             <customproperties/>
             <blendMode>0</blendMode>
@@ -359,30 +196,21 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
+            <edittypes>
+                <edittype labelontop="0" editable="1" type="0" name="comment"/>
+                <edittype labelontop="0" editable="1" type="0" name="desc"/>
+                <edittype labelontop="0" editable="1" type="0" name="dial"/>
+                <edittype labelontop="0" editable="1" type="0" name="lang"/>
+            </edittypes>
             <editform>.</editform>
             <editforminit></editforminit>
-            <featformsuppress>0</featformsuppress>
             <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
             <attributeactions/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
         </maplayer>
-        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
             <id>koi_j20160325210157785</id>
             <datasource>./langs/koi-j/koi-j.shp</datasource>
             <title></title>
@@ -406,41 +234,23 @@
             <provider encoding="UTF-8">ogr</provider>
             <previewExpression></previewExpression>
             <vectorjoins/>
-            <expressionfields/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
             <renderer-v2 symbollevels="0" type="singleSymbol">
                 <symbols>
                     <symbol alpha="0.54902" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="border_width_map_unit_scale" v="0,0"/>
+                            <prop k="border_width_unit" v="MM"/>
                             <prop k="color" v="221,30,0,255"/>
-                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
-                            <prop k="offset_map_unit_scale" v="0,0"/>
                             <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_color" v="0,0,0,255"/>
-                            <prop k="outline_style" v="solid"/>
-                            <prop k="outline_width" v="0.26"/>
-                            <prop k="outline_width_unit" v="MM"/>
                             <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
                         </layer>
                     </symbol>
                 </symbols>
-                <rotation/>
-                <sizescale scalemethod="area"/>
+                <rotation field=""/>
+                <sizescale field="" scalemethod="area"/>
             </renderer-v2>
             <customproperties>
                 <property key="labeling" value="pal"/>
@@ -610,30 +420,21 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
+            <edittypes>
+                <edittype labelontop="0" editable="1" type="0" name="comment"/>
+                <edittype labelontop="0" editable="1" type="0" name="desc"/>
+                <edittype labelontop="0" editable="1" type="0" name="dial"/>
+                <edittype labelontop="0" editable="1" type="0" name="lang"/>
+            </edittypes>
             <editform>.</editform>
             <editforminit></editforminit>
-            <featformsuppress>0</featformsuppress>
             <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
             <attributeactions/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
         </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
             <id>sel20160329121056670</id>
             <datasource>./langs/sel/sel.shp</datasource>
             <title></title>
@@ -657,41 +458,23 @@
             <provider encoding="UTF-8">ogr</provider>
             <previewExpression></previewExpression>
             <vectorjoins/>
-            <expressionfields/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
             <renderer-v2 symbollevels="0" type="singleSymbol">
                 <symbols>
                     <symbol alpha="1" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="border_width_map_unit_scale" v="0,0"/>
+                            <prop k="border_width_unit" v="MM"/>
                             <prop k="color" v="190,149,35,255"/>
-                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
-                            <prop k="offset_map_unit_scale" v="0,0"/>
                             <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_color" v="0,0,0,255"/>
-                            <prop k="outline_style" v="solid"/>
-                            <prop k="outline_width" v="0.26"/>
-                            <prop k="outline_width_unit" v="MM"/>
                             <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
                         </layer>
                     </symbol>
                 </symbols>
-                <rotation/>
-                <sizescale scalemethod="area"/>
+                <rotation field=""/>
+                <sizescale field="" scalemethod="area"/>
             </renderer-v2>
             <customproperties/>
             <blendMode>0</blendMode>
@@ -719,28 +502,19 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
+            <edittypes>
+                <edittype labelontop="0" editable="1" type="0" name="comment"/>
+                <edittype labelontop="0" editable="1" type="0" name="desc"/>
+                <edittype labelontop="0" editable="1" type="0" name="dial"/>
+                <edittype labelontop="0" editable="1" type="0" name="lang"/>
+            </edittypes>
             <editform>.</editform>
             <editforminit></editforminit>
-            <featformsuppress>0</featformsuppress>
             <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
             <attributeactions/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="comment">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="desc">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="lang">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="dial">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
         </maplayer>
     </projectlayers>
     <properties>
@@ -764,8 +538,8 @@
             <DegreeFormat type="QString">D</DegreeFormat>
         </PositionPrecision>
         <WCSUrl type="QString"></WCSUrl>
-        <WMSContactPhone type="QString"></WMSContactPhone>
         <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
+        <WMSContactPhone type="QString"></WMSContactPhone>
         <WMSServiceAbstract type="QString"></WMSServiceAbstract>
         <WMSAddWktGeometry type="bool">false</WMSAddWktGeometry>
         <Measure>
@@ -820,15 +594,15 @@
         <Macros>
             <pythonCode type="QString"></pythonCode>
         </Macros>
-        <WMSAccessConstraints type="QString"></WMSAccessConstraints>
         <WCSLayers type="QStringList"/>
+        <WMSAccessConstraints type="QString"></WMSAccessConstraints>
         <Legend>
             <filterByMap type="bool">false</filterByMap>
         </Legend>
         <SpatialRefSys>
-            <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+            <ProjectCRSProj4String type="QString">+proj=merc +lon_0=100 +lat_ts=-41 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</ProjectCRSProj4String>
             <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
-            <ProjectCRSID type="int">3452</ProjectCRSID>
+            <ProjectCRSID type="int">1710</ProjectCRSID>
             <ProjectionsEnabled type="int">1</ProjectionsEnabled>
         </SpatialRefSys>
         <DefaultStyles>
@@ -839,8 +613,8 @@
             <AlphaInt type="int">255</AlphaInt>
             <ColorRamp type="QString"></ColorRamp>
         </DefaultStyles>
-        <WMSFees type="QString"></WMSFees>
         <WMSImageQuality type="int">90</WMSImageQuality>
+        <WMSFees type="QString"></WMSFees>
         <WMSUrl type="QString"></WMSUrl>
     </properties>
 </qgis>
