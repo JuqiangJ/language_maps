@@ -36,8 +36,8 @@ geojson-merge ./geojson/dlg.geojson ./geojson/sel.geojson ./geojson/evn.geojson 
 
 ## This creates the cut isogloss map for Komi
 
-rm isoglosses/kom_isogloss_1_cut.shp
-ogr2ogr -clipsrc langs/kom/kom.shp isoglosses/kom_isogloss_1_cut.shp isoglosses/kom_isogloss.shp
+# rm isoglosses/kom_isogloss_1_cut.shp
+# ogr2ogr -clipsrc langs/kom/kom.shp isoglosses/kom_isogloss_1_cut.shp isoglosses/kom_isogloss.shp
 
 # file="language_maps.shp"
 
