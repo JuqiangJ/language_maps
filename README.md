@@ -11,7 +11,11 @@ The easiest way to correct mistakes in this data would be to clone the repositor
 - [gdal](http://www.gdal.org/)
 - [geojson-merge](https://github.com/mapbox/geojson-merge)
 
-If you have some suggestions about better workflows, please let me know!
+I was writing here earlier that better workflows would be appreciated, and now I think I've found something better. I'll integrate in some point all the maps to Google Maps, from where they will be read and stored into GitHub periodically. Something like this, I have to see how it works the best. This way anyone can truly edit the maps.
+
+One example of the forthcoming workflow is this map of Eastern Finnic varieties Markus Juutinen and I have been working with:
+
+https://drive.google.com/open?id=1IF58xysxfkTPMBj1S0CVqnAOkYM&usp=sharing
 
 ### Example
 
