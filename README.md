@@ -1,4 +1,4 @@
-# Free language maps for different uses
+# INEL maps
 
 This repository contains language maps in Shapefile and GeoJSON formats. Please notice that the actual files are always edited as Shapefiles, from which the GeoJSON is derived. This is a very nice workflow (in my opinion), as it allows editing just one file, and Shapefiles are easy to work with in programs like QGIS. Please notice that this model demands quite a bit of accuracy with each shapefile having the same structure, as we want to be able to parse and mix them in different ways without worrying about idiosynchronic decisions.
 
