@@ -1,1 +1,0 @@
-map <- readRDS("basemap.rds")
