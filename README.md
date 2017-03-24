@@ -13,8 +13,6 @@ The easiest way to correct mistakes in this data would be to clone the repositor
 
 There are lots of uses for this kind of data. One of the reasons why the Shapefiles are transformed also to GeoJSON is that it is possible to view them directly in GitHub file viewer. Try this by visiting geojson folder.
 
-![example image](https://raw.githubusercontent.com/hzsk/inel_maps/master/example_leaflet.png)
-
 ## License
 
 This work is based on Niko Partanen's earlier personal work, but the work on these files during 2016-2017 was conducted entirely within INEL. There is another repository for Niko Partanen's other [language maps], but the most up to date INEL maps are naturally located in this inel_maps repository. The license is CC-BY INEL 2017. 
