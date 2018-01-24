@@ -19,9 +19,9 @@ https://drive.google.com/open?id=1IF58xysxfkTPMBj1S0CVqnAOkYM&usp=sharing
 
 ### Example
 
-The picture below shows some of the languages mapped with R and Leaflet. Ideally the different use cases of these files would also be linked here, especially in order to be able to reuse R and JavaScript code.
+The picture below shows one use of Finnish dialect polygons, which can be used, among other purposes, to associate into points the dialect ID's used, for example, in Kotus's [Finnish dialect distribution map](https://www.kotus.fi/en/on_language/dialects/finnish_dialects_7541). Version in this repository differs from it in several details, and will overgo changes whenever some change seems appropriate.
 
-![example image](https://raw.githubusercontent.com/nikopartanen/language_maps/master/example_leaflet.png)
+![example image](https://i.imgur.com/WMjYyvf.png)
 
 ### Languages already almost in a good shape
 
@@ -42,7 +42,7 @@ The picture below shows some of the languages mapped with R and Leaflet. Ideally
 - ykg
 - yug
 
-I try to add these as soon as I get files bit harmonized and checked. If you have your own Shapefiles of any language, feel free to push them here!
+I try to add these as soon as I get files bit harmonized and checked. If you have your own Shapefiles of any language, feel free to add them here!
 
 One model I've had in mind is that new languages could be added just as very approximate polygon blobs, which would gradually be edited so that each change is recorded into Git log files.
 
